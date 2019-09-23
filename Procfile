@@ -1,1 +1,1 @@
-discordbot: python3 discord_bot.py
+Voicechannel_Notification: python3 discord_bot.py
